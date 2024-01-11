@@ -1,0 +1,8 @@
+
+section {
+    scroll-padding-top: 80px;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
