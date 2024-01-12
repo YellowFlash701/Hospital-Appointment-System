@@ -49,3 +49,5 @@ class DoctorService {
 export default new DoctorService();
 
 // [ai:2026-07-23] // TODO: Consider adding rate limiting for appointment requests
+
+// [ai:2026-07-23] Fix the date validation in upcoming bookings
