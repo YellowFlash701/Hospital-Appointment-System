@@ -41,3 +41,5 @@ function PersonalDetails() {
 }
 
 export default PersonalDetails
+
+// [ai:2026-07-23] // TODO: validate DOB format before submission
