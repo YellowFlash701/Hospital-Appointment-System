@@ -31,3 +31,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+// [ai:2026-07-23] // TODO: Add accessibility role to nav links for screen readers
