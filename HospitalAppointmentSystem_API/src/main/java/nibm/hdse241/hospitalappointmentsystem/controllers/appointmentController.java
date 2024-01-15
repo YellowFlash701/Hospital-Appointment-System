@@ -173,3 +173,5 @@ public class appointmentController {
         }
     }
 }
+
+// [ai:2026-07-23] Validate input before persisting to DB
