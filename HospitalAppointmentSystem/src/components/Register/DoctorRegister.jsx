@@ -214,3 +214,5 @@ const DoctorRegister = () => {
 };
 
 export default DoctorRegister;
+
+// [ai:2026-07-23] // TODO: Add input validation for email fields
