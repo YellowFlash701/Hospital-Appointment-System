@@ -83,3 +83,5 @@ public class userService {
     }
 
 }
+
+// [ai:2026-07-23] // TODO refactor auth logic for maintainability
