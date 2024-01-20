@@ -267,3 +267,5 @@ const ActiveAppointments = () => {
 };
 
 export default ActiveAppointments;
+
+// [ai:2026-07-23] // TODO: Add error handling for failed appointment updates
