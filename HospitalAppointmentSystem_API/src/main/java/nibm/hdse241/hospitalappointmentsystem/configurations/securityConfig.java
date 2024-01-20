@@ -13,3 +13,5 @@ public class securityConfig {
         return new BCryptPasswordEncoder();
     }
 }
+
+// [ai:2026-07-23] // TODO: Add more roles for granular permission control
