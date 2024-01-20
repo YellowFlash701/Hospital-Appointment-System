@@ -20,3 +20,5 @@ const ProtectedRoute = ({ allowedRole }) => {
 };
 
 export default ProtectedRoute;
+
+// [ai:2026-07-23] // TODO: Ensure JWT validation matches authentication service
