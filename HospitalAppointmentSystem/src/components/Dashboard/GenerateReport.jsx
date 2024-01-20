@@ -87,3 +87,5 @@ export default GenerateReport;
 // [ai:2026-07-23] // TODO: add error handling for failed report generation
 
 // [ai:2026-07-23] // TODO: Validate date range input before generating report
+
+// [ai:2026-07-23] TODO: Add date range picker for report filtering
