@@ -239,3 +239,5 @@ public class userServiceTest {
         verify(userRepository, times(1)).save(newUser); // Verify save was called once
     }
 }
+
+// [ai:2026-07-23] housekeeping
