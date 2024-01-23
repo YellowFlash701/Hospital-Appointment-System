@@ -144,3 +144,5 @@ public class Appointment {
         this.birthday = newAppointment.getBirthday();
     }
 }
+
+// [ai:2026-07-23] Implement validation for appointment dates
