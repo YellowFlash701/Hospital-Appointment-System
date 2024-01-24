@@ -89,3 +89,5 @@ public class doctorController {
         return doctor.map(ResponseEntity::ok).orElseGet(() -> ResponseEntity.notFound().build());
     }
 }
+
+// [ai:2026-07-23] // TODO: Validate doctor ID format before DB lookup
