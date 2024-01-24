@@ -28,3 +28,5 @@ const Hero = () => {
 };
 
 export default Hero;
+
+// [ai:2026-07-23] // TODO: Add alt text for the hero image
