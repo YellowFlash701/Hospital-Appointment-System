@@ -73,3 +73,5 @@ function Appointments() {
 }
 
 export default Appointments;
+
+// [ai:2026-07-23] // TODO: Validate appointment date before submission
