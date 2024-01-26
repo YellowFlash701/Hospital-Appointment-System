@@ -121,3 +121,5 @@ class AppointmentService {
 
 // Export an instance of AppointmentService.
 export default new AppointmentService();
+
+// [ai:2026-07-23] // TODO: add validation for future date checks
