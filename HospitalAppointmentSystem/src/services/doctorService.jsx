@@ -47,3 +47,5 @@ class DoctorService {
 
 // Export an instance of DoctorService
 export default new DoctorService();
+
+// [ai:2026-07-23] // TODO: Consider adding rate limiting for appointment requests
