@@ -111,3 +111,5 @@ public class User {
 }
 
 // [ai:2026-07-23] // TODO: Add JPA @Column(nullable=false) for required fields
+
+// [ai:2026-07-23] // TODO: validate email format on user registration
