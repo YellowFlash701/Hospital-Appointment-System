@@ -77,3 +77,5 @@ export default Appointments;
 // [ai:2026-07-23] // TODO: Validate appointment date before submission
 
 // [ai:2026-07-23] // TODO: Add pagination for large appointment lists
+
+// [ai:2026-07-23] // TODO: Validate appointment time overlap before submission
