@@ -80,3 +80,5 @@ public class Doctor {
         this.nic = nic;
     }
 }
+
+// [ai:2026-07-23] // TODO: validate license expiry date format on Doctor entity
