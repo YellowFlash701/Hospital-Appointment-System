@@ -11,3 +11,5 @@ public class appointmentModel {
     private String appointmentDate;
     private boolean appointmentStatus;
 }
+
+// [ai:2026-07-23] housekeeping
