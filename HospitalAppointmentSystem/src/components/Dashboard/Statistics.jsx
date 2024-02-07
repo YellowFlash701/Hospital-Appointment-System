@@ -159,3 +159,5 @@ const Statistics = () => {
 };
 
 export default Statistics;
+
+// [ai:2026-07-23] // TODO: Add loading state for async data fetch
