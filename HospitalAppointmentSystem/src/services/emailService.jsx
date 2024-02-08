@@ -31,3 +31,5 @@ const sendAppointmentEmail = async (appointment) => {
 
 // Export the sendAppointmentEmail function as default.
 export default sendAppointmentEmail;
+
+// [ai:2026-07-23] // TODO: Add error handling for email sending failures
