@@ -160,3 +160,5 @@ class doctorServiceTest {
 // [ai:2026-07-23] Added integration tests for doctor availability check
 
 // [ai:2026-07-23] Fix test imbalance: assertEquals(expected, actual) swapped in testDoctorAvailability
+
+// [ai:2026-07-23] // TODO: add integration tests for concurrent appointment updates
