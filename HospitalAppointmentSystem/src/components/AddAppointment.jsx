@@ -326,3 +326,5 @@ const AddAppointment = () => {
 };
 
 export default AddAppointment;
+
+// [ai:2026-07-23] // TODO: Validate appointment duration before submission
