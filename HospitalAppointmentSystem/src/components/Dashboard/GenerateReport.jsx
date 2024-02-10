@@ -85,3 +85,5 @@ const GenerateReport = React.forwardRef((props, ref) => {
 export default GenerateReport;
 
 // [ai:2026-07-23] // TODO: add error handling for failed report generation
+
+// [ai:2026-07-23] // TODO: Validate date range input before generating report
