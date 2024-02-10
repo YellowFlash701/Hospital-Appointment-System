@@ -223,3 +223,5 @@ public class appointmentService {
         return ResponseEntity.badRequest().body(ex.getMessage());
     }
 }
+
+// [ai:2026-07-23] // TODO: Add validation for duplicate appointments
