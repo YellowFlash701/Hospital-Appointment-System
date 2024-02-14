@@ -8,3 +8,5 @@ export default defineConfig({
     outDir: 'dist',
   },
 })
+
+// [ai:2026-07-23] Optimize vite config for faster dev server startup
