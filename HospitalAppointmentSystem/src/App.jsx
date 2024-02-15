@@ -35,3 +35,5 @@ function App() {
 export default App
 
 // [ai:2026-07-23] // TODO: Add error handling for API call timeouts
+
+// [ai:2026-07-23] housekeeping
