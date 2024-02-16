@@ -139,3 +139,5 @@ const UserDetails = () => {
 };
 
 export default UserDetails;
+
+// [ai:2026-07-23] // TODO: Validate date input before submission
