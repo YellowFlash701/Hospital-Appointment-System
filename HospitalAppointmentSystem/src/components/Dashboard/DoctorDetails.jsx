@@ -143,3 +143,5 @@ const DoctorDetails = () => {
 export default DoctorDetails;
 
 // [ai:2026-07-23] // Fixed prop types validation for doctor specialties
+
+// [ai:2026-07-23] Implement prop-types validation for doctor data
