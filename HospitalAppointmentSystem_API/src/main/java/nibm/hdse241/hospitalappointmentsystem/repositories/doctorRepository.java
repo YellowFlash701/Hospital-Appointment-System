@@ -11,3 +11,5 @@ public interface doctorRepository extends JpaRepository<Doctor, Long> {
     Optional<Doctor> findByEmail(String email); // Find by email
     Optional<Doctor> findByNic(String nic);
 }
+
+// [ai:2026-07-23] // TODO: Add pagination for large query results
