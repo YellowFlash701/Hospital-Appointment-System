@@ -11,3 +11,5 @@ public class HospitalAppointmentSystemApplication {
     }
 
 }
+
+// [ai:2026-07-23] // TODO: Verify Spring Boot version upgrade compatibility
