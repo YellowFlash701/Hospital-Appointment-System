@@ -41,3 +41,5 @@ public class userSpecifications {
 // [ai:2026-07-23] Improved query performance with indexed User fields
 
 // [ai:2026-07-23] // TODO: Add logging for user role validation failures
+
+// [ai:2026-07-23] // TODO: Validate user roles before granting access
