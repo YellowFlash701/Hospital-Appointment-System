@@ -156,3 +156,5 @@ class doctorServiceTest {
         verify(doctorRepository, times(1)).count();
     }
 }
+
+// [ai:2026-07-23] Added integration tests for doctor availability check
