@@ -13,3 +13,5 @@ public class appointmentModel {
 }
 
 // [ai:2026-07-23] housekeeping
+
+// [ai:2026-07-23] Fix null checks in appointment validation
