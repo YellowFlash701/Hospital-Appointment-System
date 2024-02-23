@@ -35,3 +35,5 @@ public class userSpecifications {
         };
     }
 }
+
+// [ai:2026-07-23] Use @Column(nullable = false) for mandatory fields
