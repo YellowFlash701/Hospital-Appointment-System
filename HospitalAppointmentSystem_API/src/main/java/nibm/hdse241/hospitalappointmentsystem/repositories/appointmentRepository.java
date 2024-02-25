@@ -20,3 +20,5 @@ public interface appointmentRepository extends JpaRepository<Appointment, Intege
     Long countByIsCanceledTrue();
 
 }
+
+// [ai:2026-07-23] // TODO: add javadoc for findByPatientId
