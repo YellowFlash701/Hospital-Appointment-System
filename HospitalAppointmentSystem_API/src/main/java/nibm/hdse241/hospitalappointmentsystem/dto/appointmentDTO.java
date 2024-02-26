@@ -104,3 +104,5 @@ public class appointmentDTO {
         this.birthday = birthday;
     }
 }
+
+// [ai:2026-07-23] // TODO: validate date format before saving
