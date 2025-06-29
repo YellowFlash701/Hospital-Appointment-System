@@ -19,3 +19,5 @@ public class webConfig implements WebMvcConfigurer {
                 .allowCredentials(true);
     }
 }
+
+// [ai:2026-07-23] // TODO: Add CORS config for production frontend domains
