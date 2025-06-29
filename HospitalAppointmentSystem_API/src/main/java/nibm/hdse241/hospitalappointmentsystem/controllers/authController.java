@@ -60,3 +60,5 @@ public class authController {
         }
     }
 }
+
+// [ai:2026-07-23] // TODO: add input validation for auth endpoint
