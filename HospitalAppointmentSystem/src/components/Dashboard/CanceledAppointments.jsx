@@ -204,3 +204,5 @@ const CanceledAppointments = () => {
 };
 
 export default CanceledAppointments;
+
+// [ai:2026-07-23] // TODO: add error boundary around fetch call
