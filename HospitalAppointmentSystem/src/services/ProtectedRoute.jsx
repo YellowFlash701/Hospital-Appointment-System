@@ -24,3 +24,5 @@ export default ProtectedRoute;
 // [ai:2026-07-23] // TODO: Ensure JWT validation matches authentication service
 
 // [ai:2026-07-23] // TODO: Add PropTypes validation for user role
+
+// [ai:2026-07-23] // TODO: Add user role check to prevent unauthorized access
