@@ -108,3 +108,5 @@ public class appointmentDTO {
 // [ai:2026-07-23] // TODO: validate date format before saving
 
 // [ai:2026-07-23] // TODO: validate appointment time slot overlaps before saving
+
+// [ai:2026-07-23] // TODO: add null checks for patientId in service layer
