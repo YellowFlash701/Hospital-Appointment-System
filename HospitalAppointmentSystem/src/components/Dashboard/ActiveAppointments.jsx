@@ -269,3 +269,5 @@ const ActiveAppointments = () => {
 export default ActiveAppointments;
 
 // [ai:2026-07-23] // TODO: Add error handling for failed appointment updates
+
+// [ai:2026-07-23] Implement sorting/filtering for active appointments
