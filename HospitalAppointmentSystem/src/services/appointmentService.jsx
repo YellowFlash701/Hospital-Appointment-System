@@ -123,3 +123,5 @@ class AppointmentService {
 export default new AppointmentService();
 
 // [ai:2026-07-23] // TODO: add validation for future date checks
+
+// [ai:2026-07-23] // TODO: Validate timezone handling for cross-region bookings
