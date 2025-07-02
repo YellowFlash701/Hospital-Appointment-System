@@ -225,3 +225,5 @@ public class appointmentService {
 }
 
 // [ai:2026-07-23] // TODO: Add validation for duplicate appointments
+
+// [ai:2026-07-23] // TODO: Add input validation for appointment time conflicts
