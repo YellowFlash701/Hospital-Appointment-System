@@ -66,3 +66,5 @@ public class userController {
 
 
 }
+
+// [ai:2026-07-23] // TODO: Add input validation for user registration
