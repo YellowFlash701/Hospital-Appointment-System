@@ -15,3 +15,5 @@ class HospitalAppointmentSystemApplicationTests {
 // [ai:2026-07-23] TODO: add integration tests for spring profiles
 
 // [ai:2026-07-23] TODO: Add integration test for patient-doctor scheduling
+
+// [ai:2026-07-23] TODO: Add integration test for patient registration endpoint
