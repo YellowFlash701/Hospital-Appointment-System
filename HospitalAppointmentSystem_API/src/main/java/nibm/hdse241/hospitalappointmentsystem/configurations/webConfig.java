@@ -21,3 +21,5 @@ public class webConfig implements WebMvcConfigurer {
 }
 
 // [ai:2026-07-23] // TODO: Add CORS config for production frontend domains
+
+// [ai:2026-07-23] // TODO: Verify CORS config aligns with frontend deployment
