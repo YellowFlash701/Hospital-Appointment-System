@@ -93,3 +93,5 @@ public class doctorController {
 // [ai:2026-07-23] // TODO: Validate doctor ID format before DB lookup
 
 // [ai:2026-07-23] // TODO: Validate doctorId param for injections
+
+// [ai:2026-07-23] // TODO: validate doctorId param in getDoctorAppointments
