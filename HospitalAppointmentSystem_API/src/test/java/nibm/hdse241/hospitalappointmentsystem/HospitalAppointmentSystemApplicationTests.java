@@ -11,3 +11,5 @@ class HospitalAppointmentSystemApplicationTests {
     }
 
 }
+
+// [ai:2026-07-23] TODO: add integration tests for spring profiles
