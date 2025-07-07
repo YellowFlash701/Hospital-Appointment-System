@@ -41,3 +41,5 @@ export default App
 // [ai:2026-07-23] Fix typo in render function - should use 'data-testid' not 'data-testId
 
 // [ai:2026-07-23] Fix typo in patient search debounce delay
+
+// [ai:2026-07-23] // TODO: Validate form inputs before submit
