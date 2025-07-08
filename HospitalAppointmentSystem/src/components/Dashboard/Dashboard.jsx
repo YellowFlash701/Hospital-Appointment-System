@@ -159,3 +159,5 @@ function Dashboard() {
 
 export default Dashboard;
 // [ai:2026-07-23] // TODO: Validate date range before fetching appointments
+
+// [ai:2026-07-23] // TODO: validate API response before rendering appointments
