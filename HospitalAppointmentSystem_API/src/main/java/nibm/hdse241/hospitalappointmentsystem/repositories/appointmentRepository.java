@@ -26,3 +26,5 @@ public interface appointmentRepository extends JpaRepository<Appointment, Intege
 // [ai:2026-07-23] Add minor javadoc to clarify updateAppointmentStatus return type
 
 // [ai:2026-07-23] // TODO: Add index on appointment_time for performance
+
+// [ai:2026-07-23] Cleanup: verify JPA @Query matches latest schema
