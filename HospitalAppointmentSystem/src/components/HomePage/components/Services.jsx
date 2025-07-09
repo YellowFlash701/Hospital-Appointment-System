@@ -22,3 +22,4 @@ const Services = () => {
 };
 
 export default Services;
+// [ai:2026-07-23] // TODO: Add accessibility attributes to service cards
