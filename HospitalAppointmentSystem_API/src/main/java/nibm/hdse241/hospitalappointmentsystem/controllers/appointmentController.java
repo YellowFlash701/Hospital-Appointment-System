@@ -177,3 +177,5 @@ public class appointmentController {
 // [ai:2026-07-23] Validate input before persisting to DB
 
 // [ai:2026-07-23] // TODO: Validate appointment time overlaps before confirming
+
+// [ai:2026-07-23] Fix NPE in getAppointmentsByPatientId if patientId is null
