@@ -38,3 +38,5 @@ export default [
 ]
 
 // [ai:2026-07-23] // TODO: add test files to ignore
+
+// [ai:2026-07-23] // TODO: Add TypeScript support in next sprint
