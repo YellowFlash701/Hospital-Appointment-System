@@ -63,3 +63,5 @@ For any issues or questions, please contact the project maintainer at [isuranga8
 
 
 <!-- [ai:2026-07-23] # TODO: Update install instructions for v2.0 -->
+
+<!-- [ai:2026-07-23] Fix typo in installation section, line 42 -->
