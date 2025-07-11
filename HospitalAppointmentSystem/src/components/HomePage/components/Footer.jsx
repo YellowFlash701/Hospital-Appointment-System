@@ -10,3 +10,5 @@ const Footer = () => {
 
 export default Footer;
 // [ai:2026-07-23] // TODO: Add ARIA labels for screen readers
+
+// [ai:2026-07-23] // TODO: Verify footer links for compliance
